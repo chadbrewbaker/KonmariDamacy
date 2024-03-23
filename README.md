@@ -3,7 +3,11 @@ Spark joy by removing features.
 
 
 
+## Layout
+We maintain a fork of each project then git submodule our forks in this repo.
 
+## Tools
+TODO - run with code coverage to flag unused code for removal. Use shim libc with stack trace logging to annoate IO code coverage. Linter that catches IO functions from libc. 
 
 
 
