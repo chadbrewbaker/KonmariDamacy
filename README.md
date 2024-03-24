@@ -1,6 +1,8 @@
 # KonmariDamacy
 Spark joy by removing features.
 
+https://github.com/chadbrewbaker/sqlite/tree/konmaridamacy
+
 
 
 ## Layout
